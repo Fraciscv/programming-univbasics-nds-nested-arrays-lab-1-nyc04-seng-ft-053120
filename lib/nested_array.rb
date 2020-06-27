@@ -21,6 +21,6 @@ def assembled_matrix
 
 end
 
-def soft_matrix
+def sorted_matrix
   
 end
