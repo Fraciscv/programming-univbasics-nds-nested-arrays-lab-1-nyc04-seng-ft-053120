@@ -22,5 +22,5 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  
+  sprted_storage_room = [CONVENTIONAL_PRODUCE, ORGANIC PRODUCE].sorted
 end
